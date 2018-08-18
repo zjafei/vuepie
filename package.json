@@ -1,7 +1,7 @@
 {
   "name": "vuepie",
   "version": "v1.0.0",
-  "description": "Apicloud with vue multi-page hybrid app scaffolding",
+  "description": "Apicloud & vue hybrid app tools",
   "author": "924402086@qq.com",
   "scripts": {
     "start": "cnpm run dev",
