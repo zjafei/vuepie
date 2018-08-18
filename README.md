@@ -1,3 +1,4 @@
+![Vuepie logo](https://raw.githubusercontent.com/zjafei/vuepie/master/vuepieLogo.fw.png)
 # Vuepie
 
 > 基于apicloud的vue混和app开发脚手架。
